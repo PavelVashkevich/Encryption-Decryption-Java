@@ -14,11 +14,11 @@ __-in__ - input file
 
 __-out__ - output file
 
-### Example if command:
+### Example of command:
 
 ```
 
-java Main -mode __enc__ -key __5__ -alg __shift__ -in __open.txt__ -out protected.txt
+java Main -mode enc -key 5 -alg shift -in open.txt -out protected.txt
 
 ```
 
